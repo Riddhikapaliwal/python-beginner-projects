@@ -24,6 +24,8 @@ class HashTable:
     def lookup(self, key):
         h = self.hash(key)
         if h in self.collection:
+
+
             return self.collection[h][key]
         else:
             return None
