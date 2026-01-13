@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4c433836-c339-4c1f-8d63-13653919e9af" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/flower_pattern.py" beforeDir="false" afterPath="$PROJECT_DIR$/flower_pattern.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/luhnalgo_for_checksum.py" beforeDir="false" afterPath="$PROJECT_DIR$/luhnalgo_for_checksum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shortest_path_algo.py" beforeDir="false" afterPath="$PROJECT_DIR$/shortest_path_algo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tower_of_hanoi.py" beforeDir="false" afterPath="$PROJECT_DIR$/tower_of_hanoi.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;paliwalriddhika&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Riddhikapaliwal/python-beginner-projects.git&quot;,
+    &quot;accountId&quot;: &quot;66aaf7ba-1f2e-4a44-ac51-cd22ade15be9&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="36F5YSFsywjnTxL96aS2sKZS4vj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.ISBNvalidator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.bouncyballanimation.executor&quot;: &quot;Run&quot;,
+    &quot;Python.flower_pattern.executor&quot;: &quot;Run&quot;,
+    &quot;Python.mediacatalogue.executor&quot;: &quot;Run&quot;,
+    &quot;Python.playerinterface.executor&quot;: &quot;Run&quot;,
+    &quot;Python.rough .executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/paliw/OneDrive/Desktop/python-beginner-projects&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-e0ed3721d81e-36ea0e71a18c-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.25410.159" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4c433836-c339-4c1f-8d63-13653919e9af" name="Changes" comment="" />
+      <created>1764589526138</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1764589526138</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../python/rough .py</url>
+          <line>600</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/flower_pattern.py</url>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
